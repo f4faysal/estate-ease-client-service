@@ -1,38 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Estate Ease Client Service
+
+---
+
+<img src="https://i.ibb.co/KqPzhPL/photo-2023-08-07-17-14-37.jpg" alt="photo-2023-08-07-17-14-37" />
+
+Welcome to the Estate Ease Client Service repository! This project is part of the Home-State Housing Rent Company initiative and aims to provide a user-friendly client service for managing property rentals.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Estate Ease Client Service is a platform that simplifies the process of property rental management. Whether you're a tenant searching for a property or a landlord managing your listings, this service provides a seamless experience.
+
+## Features
+
+- Property browsing and searching
+- Online application submission for rental properties
+- Landlord dashboard for property management
+- Tenant portal for communication and maintenance requests
 
 ## Getting Started
 
-First, run the development server:
+To get started with the Estate Ease Client Service, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Clone the repository: `git clone https://github.com/your-username/estate-ease-client-service.git`
+2. Navigate to the project directory: `cd estate-ease-client-service`
+3. Install dependencies: `npm install`
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### Usage
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+1. Start the development server: `npm start`
+2. Open a web browser and go to `http://localhost:3000`
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Contributing
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+We welcome contributions from the community! If you want to contribute to this project, please follow these steps:
 
-## Learn More
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Make your changes and commit them: `git commit -m "Add your changes"`
+4. Push to the branch: `git push origin feature/your-feature-name`
+5. Open a pull request.
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is licensed under the [MIT License](LICENSE).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For more information, visit our `www.estateease.com` [website](https://www.estateease.com) or contact us at [contact@estateease.com].
