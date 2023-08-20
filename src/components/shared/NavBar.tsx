@@ -29,7 +29,7 @@ const Navbar = () => {
           <Link href="/packages">Packages</Link>
           <Link href="/contact">Contact</Link>
           <Link href="/login">Login</Link>
-          <Link href="/logout">Logout</Link>
+          <Link href="/">Logout</Link>
         </div>
         <div className="md:hidden">
           <button
@@ -47,7 +47,7 @@ const Navbar = () => {
             <Link href="/packages">Packages</Link>
             <Link href="/contact">Contact</Link>
             <Link href="/login">Login</Link>
-            <Link href="/logout">Logout</Link>
+            <Link href="/">Logout</Link>
           </div>
         </div>
       )}
