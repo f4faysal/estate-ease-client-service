@@ -10,8 +10,8 @@ const Footer = () => {
   return (
     <footer className="bg-[#EBF6FF]">
       <div className="container mx-auto pt-20 pb-10">
-        <div className="grid grid-cols-4 gap-4 px-8">
-          <div>
+        <div className="grid grid-cols-6  gap-4 px-8">
+          <div className="col-span-3">
             <h1 className="text-[20px] font-bold mb-1 text-[#26aae1]">
               Discover
             </h1>
