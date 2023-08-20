@@ -9,9 +9,9 @@ import { MdCall } from "react-icons/md";
 const Footer = () => {
   return (
     <footer className="bg-[#EBF6FF]">
-      <div className="container mx-auto pt-20 pb-10">
-        <div className="grid grid-cols-6  gap-4 px-8">
-          <div className="col-span-3">
+      <div className="container mx-auto pt-48 pb-10">
+        <div className="grid grid-cols-1 md:grid-cols-6  gap-4 px-10">
+          <div className=" md:col-span-3 ">
             <h1 className="text-[20px] font-bold mb-1 text-[#26aae1]">
               Discover
             </h1>
@@ -129,7 +129,7 @@ const Footer = () => {
           </div>
         </div>
         <hr className="h-px mt-8 mb-2 bg-black border-0 " />
-        <div className="flex justify-between px-20 items-center">
+        <div className="md:flex md:justify-between text-center md:px-20 items-center">
           <div className="text-2xl font-bold">
             <h1>
               <Link href="/">
