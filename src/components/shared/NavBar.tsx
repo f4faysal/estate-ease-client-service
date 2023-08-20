@@ -24,10 +24,12 @@ const Navbar = () => {
             {/* <a className="text-white font-bold text-lg">My App</a> */}
           </Link>
         </div>
-        <div className="hidden md:block space-x-4">
+        <div className="hidden md:block space-x-10">
           <Link href="/">Home</Link>
           <Link href="/packages">Packages</Link>
           <Link href="/contact">Contact</Link>
+        </div>
+        <div className="hidden md:block space-x-10">
           <Link href="/login">Login</Link>
           <Link href="/">Logout</Link>
         </div>
