@@ -1,12 +1,12 @@
 import RootLayout from "@/components/rootLayout/RootLayout";
 import { ReactElement } from "react";
 
-const Login = () => {
-  return <div>Login</div>;
+const PackagesEE = () => {
+  return <div>PackagesEE</div>;
 };
 
-export default Login;
+export default PackagesEE;
 
-Login.getLayout = function getLayout(page: ReactElement) {
+PackagesEE.getLayout = function getLayout(page: ReactElement) {
   return <RootLayout>{page}</RootLayout>;
 };
