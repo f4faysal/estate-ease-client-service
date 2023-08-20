@@ -82,7 +82,7 @@ const Footer = () => {
                   src="/assets/nagad-logo.png"
                   alt="mastercard"
                   width={40}
-                  height={20}
+                  height={25}
                 />
               </div>
             </div>
