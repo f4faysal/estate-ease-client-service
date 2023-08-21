@@ -45,7 +45,7 @@ const HomeBanner = () => {
           </button>
         </div>
       </div>
-      <div className="absolute lg:top-[340px] xl:top-[380px] 2xl:top-[500px] left-0 right-0 lg:flex justify-center hidden ">
+      <div className="absolute lg:top-[340px] xl:top-[380px] 2xl:top-[500px] left-0 right-0 lg:flex justify-center  ">
         <SForm />
       </div>
     </div>
