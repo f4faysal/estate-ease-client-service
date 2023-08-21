@@ -2,6 +2,7 @@ import { MdCheckCircle } from "react-icons/md";
 
 const HomeBuying = () => {
   return (
+    // text pull requst
     <div className="relative">
       <div className=" relative mx-auto lg:w-[1500px] lg:h-[600px]">
         <div className="w-full h-full flex justify-center items-center flex-col lg:flex-row">
