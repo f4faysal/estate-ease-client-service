@@ -7,7 +7,7 @@ const HomeBuying = () => {
             {/* <Image
             src=""
             alt=""
-            
+            hello=''
             height={50}
             width={50}
             className="rounded-full"
