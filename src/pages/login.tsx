@@ -10,12 +10,10 @@ const Login = () => {
           Sign in to access your account
         </p>
       </div>
-      <form novalidate="" action="" className="space-y-12">
+      <form action="" className="space-y-12">
         <div className="space-y-4">
           <div>
-            <label for="email" className="block mb-2 text-sm">
-              Email address
-            </label>
+            <label className="block mb-2 text-sm">Email address</label>
             <input
               type="email"
               name="email"
@@ -26,9 +24,7 @@ const Login = () => {
           </div>
           <div>
             <div className="flex justify-between mb-2">
-              <label for="password" className="text-sm">
-                Password
-              </label>
+              <label className="text-sm">Password</label>
               <a
                 rel="noopener noreferrer"
                 href="#"
