@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
+import { FiLogOut } from "react-icons/fi";
 import { IoEllipsisVerticalOutline } from "react-icons/io5";
 
 const Navbar = () => {
@@ -11,8 +12,8 @@ const Navbar = () => {
   };
 
   return (
-    <nav className=" container mx-auto py-2 px-4">
-      <div className="flex items-center justify-between container mx-auto">
+    <nav className="bg-[#f3f8fbdc] sticky top-0 z-50">
+      <div className="container mx-auto py-2 px-4 flex items-center justify-between">
         <div className="flex items-center">
           <Link href="/">
             <Image
@@ -30,8 +31,14 @@ const Navbar = () => {
           <Link href="/contact">Contact</Link>
         </div>
         <div className="hidden md:block space-x-10">
-          <Link href="/login">Login</Link>
-          <Link href="/">Logout</Link>
+          {!true ? (
+            <Link href="/login">Login</Link>
+          ) : (
+            <Link href="/" className="flex items-center gap-1">
+              {" "}
+              <FiLogOut /> Logout
+            </Link>
+          )}
         </div>
         <div className="md:hidden">
           <button

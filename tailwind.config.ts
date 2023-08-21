@@ -1,4 +1,3 @@
-
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -13,18 +12,18 @@ module.exports = {
     extend: {},
   },
   plugins: [
-    function ({ addComponents }) {
+    function ({ addComponents }: { addComponents: (components: Record<string, any>) => void }) {
       addComponents({
         '.container': {
           maxWidth: '100%',
           '@screen sm': {
-            maxWidth: '600px',
+            maxWidth: '580px',
           },
           '@screen md': {
-            maxWidth: '700px',
+            maxWidth: '780px',
           },
           '@screen lg': {
-            maxWidth: '900px',
+            maxWidth: '980px',
           },
           '@screen xl': {
             maxWidth: '1080px',
@@ -36,4 +35,4 @@ module.exports = {
       })
     }
   ],
-}
+};
