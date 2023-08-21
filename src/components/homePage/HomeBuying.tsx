@@ -1,8 +1,8 @@
 const HomeBuying = () => {
   return (
-    <div className="relative mx-auto w-[1500px] h-[600px]">
-      <div className="w-full h-full flex justify-center items-center">
-        <div className="w-1/2">
+    <div className="relative mx-auto w-full lg:w-[1500px] lg:h-[600px]">
+      <div className="w-full h-full flex justify-center items-center flex-col lg:flex-row">
+        <div className="w-1/2 ">
           <div className=" ">
             {/* <Image
             src=""
@@ -11,9 +11,9 @@ const HomeBuying = () => {
             width={50}
             className="rounded-full"
           /> */}
-            <div className="absolute top-2 left-[400px]  h-52 w-52 bg-slate-500 rounded-full"></div>
-            <div className="absolute top-[100px] h-96 w-96 bg-slate-500 rounded-full"></div>
-            <div className="absolute bottom-10 left-[500px] h-40 w-40 bg-slate-500 rounded-full"></div>
+            <div className=" hidden md:block absolute top-2 left-[400px]  h-52 w-52 bg-slate-500 rounded-full"></div>
+            <div className="lg:absolute top-[100px] h-96 w-96 bg-slate-500 rounded-full"></div>
+            <div className="hidden  md:block absolute bottom-10 left-[500px] h-40 w-40 bg-slate-500 rounded-full"></div>
           </div>
         </div>
         <div className="w-1/2 ">
