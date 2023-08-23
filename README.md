@@ -5,7 +5,8 @@
 <img src="https://i.ibb.co/KqPzhPL/photo-2023-08-07-17-14-37.jpg" alt="photo-2023-08-07-17-14-37" />
 
 Welcome to the Estate Ease Client Service repository! This project is part of the Home-State Housing Rent Company initiative and aims to provide a user-friendly client service for managing property rentals.
-
+## visit our `www.estateease.com` [website](https://www.estateease.vercel.app)
+## visit our `Estate Ease Auth Service Git Ripo` [website](https://github.com/f4faysal/estate-ease-auth-service)
 ## Table of Contents
 
 - [Introduction](#introduction)
