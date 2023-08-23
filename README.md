@@ -3,6 +3,8 @@
 ---
 ### visit our `www.estateease.vercel.app` [Live website](https://www.estateease.vercel.app)
 ### visit our `Estate Ease Auth Service Git Ripo` [Git Ripo](https://github.com/f4faysal/estate-ease-auth-service)
+### visit our `Estate Ease UI Design` [UI Figma](https://www.figma.com/file/hYszWXryckfcbwP0lFGWVF/Estate-Ease?type=design&node-id=0%3A1&mode=dev)
+### visit our `Estate Ease Documentation` [Documentation](https://docs.google.com/document/d/18GBc9ZvfpsCCQbRYE3KewN9DYKIU5Dh7NNRqQnUX44A/edit?usp=sharing)
 
 <img src="https://i.ibb.co/KqPzhPL/photo-2023-08-07-17-14-37.jpg" alt="photo-2023-08-07-17-14-37" />
 
