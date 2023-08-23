@@ -42,7 +42,7 @@ Want to make Estate Ease even better? We welcome contributions from the communit
 
 ### Explore Further
 
-- [Visit Live Website](https://www.estateease.vercel.app)
+- [Visit Live Website](https://estateease.vercel.app/)
 - [Auth Service Repository](https://github.com/f4faysal/estate-ease-auth-service)
 - [UI Figma Design](https://www.figma.com/file/hYszWXryckfcbwP0lFGWVF/Estate-Ease?type=design&node-id=0%3A1&mode=dev)
 - [Comprehensive Documentation](https://docs.google.com/document/d/18GBc9ZvfpsCCQbRYE3KewN9DYKIU5Dh7NNRqQnUX44A/edit?usp=sharing)
